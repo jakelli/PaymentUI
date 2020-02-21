@@ -1,4 +1,5 @@
 ﻿using System;
+using PaymentUI.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace PaymentUI
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new CreditCardPage();
         }
 
         protected override void OnStart()

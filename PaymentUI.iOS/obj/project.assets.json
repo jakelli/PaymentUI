@@ -48,7 +48,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.4.0.991640": {
+      "Xamarin.Forms/4.3.0.991250": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -171,7 +171,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Xamarin.Forms.Visual.Material/4.5.0.282-pre4": {
+      "Xamarin.Forms.Visual.Material/4.3.0.991250": {
         "type": "package",
         "dependencies": {
           "Xamarin.iOS.MaterialComponents": "72.2.0.1"
@@ -209,8 +209,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "PropertyChanged.Fody": "3.0.1",
-          "Xamarin.Forms": "4.5.0.282-pre4",
-          "Xamarin.Forms.Visual.Material": "4.5.0.282-pre4",
+          "Xamarin.Forms": "4.3.0.991250",
+          "Xamarin.Forms.Visual.Material": "4.3.0.991250",
           "XamarinFastEntry.Behaviors": "1.1.1"
         },
         "compile": {
@@ -268,7 +268,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.4.0.991640": {
+      "Xamarin.Forms/4.3.0.991250": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -391,7 +391,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Xamarin.Forms.Visual.Material/4.5.0.282-pre4": {
+      "Xamarin.Forms.Visual.Material/4.3.0.991250": {
         "type": "package",
         "dependencies": {
           "Xamarin.iOS.MaterialComponents": "72.2.0.1"
@@ -429,8 +429,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "PropertyChanged.Fody": "3.0.1",
-          "Xamarin.Forms": "4.5.0.282-pre4",
-          "Xamarin.Forms.Visual.Material": "4.5.0.282-pre4",
+          "Xamarin.Forms": "4.3.0.991250",
+          "Xamarin.Forms.Visual.Material": "4.3.0.991250",
           "XamarinFastEntry.Behaviors": "1.1.1"
         },
         "compile": {
@@ -488,7 +488,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.4.0.991640": {
+      "Xamarin.Forms/4.3.0.991250": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -611,7 +611,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Xamarin.Forms.Visual.Material/4.5.0.282-pre4": {
+      "Xamarin.Forms.Visual.Material/4.3.0.991250": {
         "type": "package",
         "dependencies": {
           "Xamarin.iOS.MaterialComponents": "72.2.0.1"
@@ -649,8 +649,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "PropertyChanged.Fody": "3.0.1",
-          "Xamarin.Forms": "4.5.0.282-pre4",
-          "Xamarin.Forms.Visual.Material": "4.5.0.282-pre4",
+          "Xamarin.Forms": "4.3.0.991250",
+          "Xamarin.Forms.Visual.Material": "4.3.0.991250",
           "XamarinFastEntry.Behaviors": "1.1.1"
         },
         "compile": {
@@ -708,7 +708,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.4.0.991640": {
+      "Xamarin.Forms/4.3.0.991250": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -831,7 +831,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "Xamarin.Forms.Visual.Material/4.5.0.282-pre4": {
+      "Xamarin.Forms.Visual.Material/4.3.0.991250": {
         "type": "package",
         "dependencies": {
           "Xamarin.iOS.MaterialComponents": "72.2.0.1"
@@ -869,8 +869,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "PropertyChanged.Fody": "3.0.1",
-          "Xamarin.Forms": "4.5.0.282-pre4",
-          "Xamarin.Forms.Visual.Material": "4.5.0.282-pre4",
+          "Xamarin.Forms": "4.3.0.991250",
+          "Xamarin.Forms.Visual.Material": "4.3.0.991250",
           "XamarinFastEntry.Behaviors": "1.1.1"
         },
         "compile": {
@@ -1032,10 +1032,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.4.0.991640": {
-      "sha512": "668BMe9e5uvQW+caDebKn3nZr1Msxc4YMpDhD/dN061h+bHYEoWu1c/gdmQnwhGpeHMP4TClPxCKRP41FFsGCQ==",
+    "Xamarin.Forms/4.3.0.991250": {
+      "sha512": "b3T83X89rxNQ7Y5DcJB04gkfwZ3MMi5HbBxfn0e+Up6viScBAVb65WtVTbzAfuRgXo11RVC2sJBgt9Ae90K1sw==",
       "type": "package",
-      "path": "xamarin.forms/4.4.0.991640",
+      "path": "xamarin.forms/4.3.0.991250",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1248,50 +1248,47 @@
         "lib/tizen40/Xamarin.Forms.Xaml.xml",
         "lib/uap10.0/Design/Xamarin.Forms.Core.Design.dll",
         "lib/uap10.0/Design/Xamarin.Forms.Xaml.Design.dll",
-        "lib/uap10.0/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
         "lib/uap10.0/Xamarin.Forms.Core.dll",
         "lib/uap10.0/Xamarin.Forms.Core.pdb",
         "lib/uap10.0/Xamarin.Forms.Core.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.dll",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pdb",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pri",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/CollectionView/ItemsViewStyles.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsAutoSuggestBoxStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCheckBoxStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsEmbeddedPageWrapper.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Microsoft.UI.Xaml/DensityStyles/Compact.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Microsoft.UI.Xaml/Themes/generic.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Shell/ShellStyles.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/StepperControl.xaml",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xaml",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/AutoSuggestStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/CollectionView/ItemsViewStyles.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCheckBoxStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsEmbeddedPageWrapper.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Microsoft.UI.Xaml/DensityStyles/Compact.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/PickerStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Shell/ShellStyles.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/StepperControl.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.4.0.991640.nupkg.sha512",
+        "xamarin.forms.4.3.0.991250.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
-    "Xamarin.Forms.Visual.Material/4.5.0.282-pre4": {
-      "sha512": "Tx5yRAZM/zr4qaOmDfA+eT5FSqbQiQVbUeHgDG4eOz20iBuPkbb4vsg4vvT7q8j+hW7cpUubDyayQSiKd0beBA==",
+    "Xamarin.Forms.Visual.Material/4.3.0.991250": {
+      "sha512": "GvtN1asF6TlL6Fibq+haz9z+Hp1vY2tlxIU/FId44kB09ZuACbZCslarx8AkJMRPsxrmUSD0p1UXMfJQAkDhJg==",
       "type": "package",
-      "path": "xamarin.forms.visual.material/4.5.0.282-pre4",
+      "path": "xamarin.forms.visual.material/4.3.0.991250",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/MonoAndroid10/Xamarin.Forms.Visual.Material.targets",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Material.dll",
-        "lib/MonoAndroid10.0/Xamarin.Forms.Material.pdb",
         "lib/MonoAndroid10/_._",
         "lib/MonoAndroid90/Xamarin.Forms.Material.dll",
         "lib/MonoAndroid90/Xamarin.Forms.Material.pdb",
@@ -1300,7 +1297,7 @@
         "lib/netstandard1.0/_._",
         "lib/tizen40/Xamarin.Forms.Material.dll",
         "lib/tizen40/Xamarin.Forms.Material.pdb",
-        "xamarin.forms.visual.material.4.5.0.282-pre4.nupkg.sha512",
+        "xamarin.forms.visual.material.4.3.0.991250.nupkg.sha512",
         "xamarin.forms.visual.material.nuspec"
       ]
     },
@@ -1339,7 +1336,7 @@
     "Xamarin.iOS,Version=v1.0": [
       "PaymentUI >= 1.0.0",
       "Xamarin.Essentials >= 1.3.1",
-      "Xamarin.Forms >= 4.4.0.991640"
+      "Xamarin.Forms >= 4.3.0.991250"
     ]
   },
   "packageFolders": {
@@ -1385,7 +1382,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.4.0.991640, )"
+            "version": "[4.3.0.991250, )"
           }
         }
       }
@@ -1401,20 +1398,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 4.5.0.282-pre4 to 4.4.0.991640. Reference the package directly from the project to select a different version. \n PaymentUI.iOS -> PaymentUI -> Xamarin.Forms (>= 4.5.0.282-pre4) \n PaymentUI.iOS -> Xamarin.Forms (>= 4.4.0.991640)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    }
-  ]
+  }
 }

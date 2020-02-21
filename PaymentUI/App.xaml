@@ -1,5 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="PaymentUI.App">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application
+    x:Class="PaymentUI.App"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:converters="clr-namespace:PaymentUI.Converters"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
     <Application.Resources>
+        <ResourceDictionary>
+            <converters:CardNumberToImageConverter
+                x:Key="CardConverter"
+                Amex="ic_amex"
+                Dinners="ic_dinersclub"
+                Discover="ic_discover"
+                JCB="ic_jcb"
+                MasterCard="ic_mastercard"
+                NotRecognized="nocards"
+                Visa="ic_visa" />
+
+            <converters:CardNumberToImageConverter
+                x:Key="CardLightConverter"
+                Amex="americanexpresslogo"
+                Dinners="ic_dinersclub_white.png"
+                Discover="ic_discover_light"
+                JCB="ic_jcb"
+                MasterCard="ic_mastercard_white"
+                NotRecognized="ic_chip"
+                Visa="ic_visa_white" />
+
+            <converters:CardNumberToColorConverter
+                x:Key="CardColorConverter"
+                Amex="#3177CB"
+                Dinners="#1B4F8F"
+                Discover="#E9752F"
+                JCB="#9E2921"
+                MasterCard="#394854"
+                NotRecognized="#75849D"
+                Visa="#2867BA" />
+
+            <Color x:Key="Primary">#E5E9EE</Color>
+            <Color x:Key="PrimaryDark">#75849D</Color>
+            <Color x:Key="Secondary">#B5BBC2</Color>
+            <Color x:Key="Accent">LightGray</Color>
+            <Color x:Key="LightColor">LightGray</Color>
+
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

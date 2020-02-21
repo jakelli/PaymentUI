@@ -2,13 +2,13 @@
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/bin/Debug/netstandard2.0/PaymentUI.dll
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/bin/Debug/netstandard2.0/ref/PaymentUI.dll
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/bin/Debug/netstandard2.0/PaymentUI.pdb
-/Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.csprojAssemblyReference.cache
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/Views/CreditCardDisplayView.xaml.g.cs
+/Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/Views/CreditCardPage.xaml.g.cs
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.AssemblyInfoInputs.cache
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.AssemblyInfo.cs
+/Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.csproj.Fody.CopyLocal.cache
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.dll
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/ref/PaymentUI.dll
 /Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.pdb
-/Users/jakeellious/Documents/development/PaymentUI/PaymentUI/obj/Debug/netstandard2.0/PaymentUI.csproj.Fody.CopyLocal.cache
