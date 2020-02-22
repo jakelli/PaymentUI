@@ -1,7 +1,5 @@
-﻿using System;
-using PaymentUI.Views;
+﻿using PaymentUI.Views;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace PaymentUI
 {
@@ -10,7 +8,6 @@ namespace PaymentUI
         public App()
         {
             InitializeComponent();
-
             MainPage = new CreditCardPage();
         }
 

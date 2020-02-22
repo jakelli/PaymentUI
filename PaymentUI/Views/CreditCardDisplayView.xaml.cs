@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using PaymentUI.ViewModels;
+﻿using PaymentUI.ViewModels;
 using Xamarin.Forms;
 
 namespace PaymentUI.Views
@@ -10,7 +8,6 @@ namespace PaymentUI.Views
         public CreditCardDisplayView()
         {
             InitializeComponent();
-            this.BindingContext = new CreditCardPageViewModel();
         }
     }
 }
